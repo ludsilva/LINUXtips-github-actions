@@ -72,7 +72,7 @@ Ao completar este workflow com sucesso, você ganha o badge:
 
 ## Agradecimentos
 
-- Ao **Jeferson Fernando** e toda a comunidade **LINUXtips** por inspirar e fomentar a educação em tecnologia no Brasil.
+- Ao **Jeferson Fernando** e toda a comunidade da **LINUXtips** por inspirar e fomentar a educação em tecnologia no Brasil.
 - A todos os contribuidores que ajudarem a tornar este projeto ainda melhor.
 
 ---
