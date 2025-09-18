@@ -32,7 +32,7 @@ jobs:
         run: npm ci
 
       - name: "Rodar testes"
-        run: npm test
+        run: npm run tests
 
       - name: "Extrair porcentagem de cobertura" # Esse step será validado pelo desafio, não altere o nome. No final, ele deve gerar o output "coverage" com a porcentagem de cobertura.
         id: coverage
